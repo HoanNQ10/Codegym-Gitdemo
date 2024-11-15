@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d5c4188-1ee1-4522-a37f-b42ef85c4c57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS Selector/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS Selector/demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua ham alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung ham console.log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung the HTML.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Khai báo và sử dụng biến/Bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Khai báo và sử dụng biến/Bài 3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua ham alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung ham console.log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung ham document.write.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung the HTML.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="tsconfig.json" />
         <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
@@ -40,23 +49,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Tạo form lấy survey khách hàng.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ADMIN/WebstormProjects/untitled/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Tạo form lấy survey khách hàng.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ADMIN/WebstormProjects/untitled/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ADMIN\WebstormProjects\untitled\Tổng quan JavaScript\[Thực hành] Hiển thị đầu ra" />
@@ -79,7 +88,9 @@
       <updated>1731172694711</updated>
       <workItem from="1731172696394" duration="700000" />
       <workItem from="1731174566193" duration="4486000" />
-      <workItem from="1731488729449" duration="4432000" />
+      <workItem from="1731488729449" duration="6879000" />
+      <workItem from="1731504785103" duration="1525000" />
+      <workItem from="1731588843414" duration="3855000" />
     </task>
     <servers />
   </component>

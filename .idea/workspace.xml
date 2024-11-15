@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d5c4188-1ee1-4522-a37f-b42ef85c4c57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Khai báo và sử dụng biến/Bài 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Khai báo và sử dụng biến/Bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Sử dụng toán tử/Bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 7 (Biến, kiểu dữ liệu và toán tử )/[Thực hành] Sử dụng toán tử/Bài 1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Biến, kiểu dữ liệu và toán tử/[Bài tập] Biến, kiểu dữ liệu và toán tử/Index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua ham alert.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung ham console.log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung ham document.write.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Hiển thị đầu ra/hien thi ket qua su dung the HTML.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Bài tập 3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tổng quan JavaScript/[Thực hành] Nhúng JavaScript/Index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +19,8 @@
       <list>
         <option value="CSS File" />
         <option value="tsconfig.json" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -90,7 +80,7 @@
       <workItem from="1731174566193" duration="4486000" />
       <workItem from="1731488729449" duration="6879000" />
       <workItem from="1731504785103" duration="1525000" />
-      <workItem from="1731588843414" duration="3855000" />
+      <workItem from="1731588843414" duration="5031000" />
     </task>
     <servers />
   </component>
